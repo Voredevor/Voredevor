@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Voredevor
-- 👀 I’m interested in Learning
-- 🌱 I’m currently learning UI/UX and Solidity
-- 💞️ I’m looking to collaborate on Web3
+- 👋 Hi, I’m Devor
+- 👀 I’m interested in Learning, Growing and Earning
+- 🌱 I’m currently Blockchain Tech and A.I Integration
+- 💞️ I’m looking to collaborate on A.I development, Web development or App development
 - 📫 How to reach me voredroved@gmail.com
 
 <!---
